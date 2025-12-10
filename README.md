@@ -11,7 +11,7 @@
 [![ML Engine](https://img.shields.io/badge/AI-TensorFlow%20%7C%20XGBoost-FF6F00)](https://www.tensorflow.org/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-[Live Demo](https://https://huggingface.co/spaces/Maniram/crypto-frontend) • [Documentation](#-table-of-contents) • [Report Bug](https://github.com/ManiraM-1/Crypto-Analysis-System/issues) • [Request Feature](https://github.com/ManiraM-1/Crypto-Analysis-System/issues)
+[Live Demo](https://huggingface.co/spaces/Maniram/crypto-frontend) • [Documentation](#-table-of-contents) • [Report Bug](https://github.com/ManiraM-1/Crypto-Analysis-System/issues) • [Request Feature](https://github.com/ManiraM-1/Crypto-Analysis-System/issues)
 
 </div>
 
@@ -55,7 +55,7 @@ Unlike traditional crypto dashboards, this platform implements a complete **3-ti
 
 Experience the platform in action! The application is fully deployed and accessible online.
 
-### 👉 **[Launch Live Dashboard](https://https://huggingface.co/spaces/Maniram/crypto-frontend)**
+### 👉 **[Launch Live Dashboard](https://huggingface.co/spaces/Maniram/crypto-frontend)**
 
 > **Note**: Initial load may take 30-60 seconds as the ML models warm up on the cloud instance.
 

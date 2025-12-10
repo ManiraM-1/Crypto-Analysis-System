@@ -15,8 +15,8 @@ Unlike standard dashboards, this system utilizes a **3-tier architecture** (Fron
 
 The application is fully deployed and running on **Hugging Face Spaces**.
 
-### 👉 [Click Here to Open the Dashboard](https://YOUR-FRONTEND-SPACE-URL-HERE)
-*(Replace the link above with your actual Frontend Space URL)*
+### 👉 [Click Here to Open the Dashboard](https://huggingface.co/spaces/Maniram/crypto-frontend)
+
 
 ---
 
